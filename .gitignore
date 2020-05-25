@@ -1,0 +1,16 @@
+# Ignore all text files
+*.txt
+
+# Ignore virtual env
+virtual1/
+
+# Ignore vscode
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ignore database instance
+*.db
